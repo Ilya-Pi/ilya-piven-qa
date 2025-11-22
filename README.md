@@ -11,7 +11,7 @@ A clean, minimal HTML page that presents work experience, skills, tools, educati
 
 - HTML5 & CSS3 (Vanilla)
 - Hosted via GitHub Pages
-- No frameworks
+- Frameworks
 
 ## 🧰 How to use
 
